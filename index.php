@@ -1,5 +1,5 @@
 <?php
 
-	echo 'Main website';
+	echo 'Main website'; 
 
 ?>
